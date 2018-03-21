@@ -6,45 +6,45 @@
 
 *1.首页*
 
-![emark_home](./emark_home_0.png)
+![emarkHome0](./emarkHome0.png)
 
-![emark_home](./emark_home_1.png)
+![emarkHome1](./emarkHome1.png)
 
 *2.日记*
 
-![emark_diary](./emark_diary_0.png)
+![emarkDiary0](./emarkDiary0.png)
 
-![emark_diary](./emark_diary_1.png)
+![emarkDiary1](./emarkDiary1.png)
 
 *3.账单*
 
-![emark_bill](./emark_bill_0.png)
+![emarkBill0](./emarkBill0.png)
 
-![emark_bill](./emark_bill_1.png)
+![emarkBill1](./emarkBill1.png)
 
-![emark_bill](./emark_bill_2.png)
+![emarkBill2](./emarkBill2.png)
 
 *4.节日*
 
-![emark_bigday](./emark_bigday_0.png)
+![emarkBigday0](./emarkBigday0.png)
 
 *5.收纳*
 
-![emark_collection](./emark_collection_0.png)
+![emarkCollection0](./emarkCollection0.png)
 
-![emark_collection](./emark_collection_1.png)
+![emarkCollection1](./emarkCollection1.png)
 
 *6.提醒*
 
-![emark_alert](./emark_alert_0.png)
+![emarkAlert0](./emarkAlert0.png)
 
-![emark_alert](./emark_alert_1.png)
+![emarkAlert1](./emarkAlert1.png)
 
 *7.设置*
 
-![emark_setting](./emark_setting_0.png)
+![emarkSetting0](./emarkSetting0.png)
 
 
 *appstore截图*
 
-![emark_appstore](./emark_appstore0.png)
+![emarkAppstore0](./emarkAppstore0.png)
