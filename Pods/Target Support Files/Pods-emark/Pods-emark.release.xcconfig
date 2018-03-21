@@ -1,0 +1,9 @@
+GCC_PREPROCESSOR_DEFINITIONS = $(inherited) COCOAPODS=1
+HEADER_SEARCH_PATHS = $(inherited) "${PODS_ROOT}/Headers/Public" "${PODS_ROOT}/Headers/Public/CZPicker" "${PODS_ROOT}/Headers/Public/FMDB" "${PODS_ROOT}/Headers/Public/MJRefresh" "${PODS_ROOT}/Headers/Public/MMNumberKeyboard" "${PODS_ROOT}/Headers/Public/Masonry" "${PODS_ROOT}/Headers/Public/PNChart" "${PODS_ROOT}/Headers/Public/UICountingLabel" "${PODS_ROOT}/Headers/Public/YYCache"
+LIBRARY_SEARCH_PATHS = $(inherited) "$PODS_CONFIGURATION_BUILD_DIR/CZPicker" "$PODS_CONFIGURATION_BUILD_DIR/FMDB" "$PODS_CONFIGURATION_BUILD_DIR/MJRefresh" "$PODS_CONFIGURATION_BUILD_DIR/MMNumberKeyboard" "$PODS_CONFIGURATION_BUILD_DIR/Masonry" "$PODS_CONFIGURATION_BUILD_DIR/PNChart" "$PODS_CONFIGURATION_BUILD_DIR/UICountingLabel" "$PODS_CONFIGURATION_BUILD_DIR/YYCache"
+OTHER_CFLAGS = $(inherited) -isystem "${PODS_ROOT}/Headers/Public" -isystem "${PODS_ROOT}/Headers/Public/CZPicker" -isystem "${PODS_ROOT}/Headers/Public/FMDB" -isystem "${PODS_ROOT}/Headers/Public/MJRefresh" -isystem "${PODS_ROOT}/Headers/Public/MMNumberKeyboard" -isystem "${PODS_ROOT}/Headers/Public/Masonry" -isystem "${PODS_ROOT}/Headers/Public/PNChart" -isystem "${PODS_ROOT}/Headers/Public/UICountingLabel" -isystem "${PODS_ROOT}/Headers/Public/YYCache"
+OTHER_LDFLAGS = $(inherited) -ObjC -l"CZPicker" -l"FMDB" -l"MJRefresh" -l"MMNumberKeyboard" -l"Masonry" -l"PNChart" -l"UICountingLabel" -l"YYCache" -l"sqlite3" -framework "CoreFoundation" -framework "CoreGraphics" -framework "Foundation" -framework "QuartzCore" -framework "UIKit"
+PODS_BUILD_DIR = $BUILD_DIR
+PODS_CONFIGURATION_BUILD_DIR = $PODS_BUILD_DIR/$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)
+PODS_PODFILE_DIR_PATH = ${SRCROOT}/.
+PODS_ROOT = ${SRCROOT}/Pods
